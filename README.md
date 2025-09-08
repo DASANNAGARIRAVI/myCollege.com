@@ -1,3 +1,3 @@
-# myCollege.com 
+# myCollege.com     
 
-my first college
+myu first college
